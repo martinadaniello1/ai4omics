@@ -1,2 +1,2 @@
-# ai4omics
-Application of machine learning models to analyze maternal metabolomic profiles associated with congenital heart disease in offspring. Project work delivered at the end of the course "Artificial Intelligence for Omics Data Analysis" at Università degli Studi di Salerno.
+# Application of machine learning models to analyze maternal metabolomic profiles associated with congenital heart disease in offspring
+This project work was delivered at the end of the course "Artificial Intelligence for Omics Data Analysis" at Università degli Studi di Salerno. Click [here](https://drive.google.com/file/d/1lYfOfatH2oTfiKVapIbLCdmDYF-xRXii/view?usp=sharing) for the report and all the details. 
